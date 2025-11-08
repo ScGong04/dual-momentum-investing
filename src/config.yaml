@@ -1,0 +1,6 @@
+# investment universe
+universe: 
+    risky: [SPY, QQQ, IWM, EFA, EEM]
+    defen: [TLT, LQD, BIL, GLD]
+    start: "2005-01-01"
+    end:   "2025-10-31"
